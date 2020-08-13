@@ -1,2 +1,2 @@
 # c3-library
-Demo
+Demo with examples
